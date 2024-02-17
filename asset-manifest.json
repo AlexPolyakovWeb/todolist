@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/AlexPolyakovWeb/todolist/static/css/main.bbb55728.css",
+    "main.js": "/AlexPolyakovWeb/todolist/static/js/main.9f172526.js",
+    "index.html": "/AlexPolyakovWeb/todolist/index.html",
+    "main.bbb55728.css.map": "/AlexPolyakovWeb/todolist/static/css/main.bbb55728.css.map",
+    "main.9f172526.js.map": "/AlexPolyakovWeb/todolist/static/js/main.9f172526.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bbb55728.css",
+    "static/js/main.9f172526.js"
+  ]
+}
